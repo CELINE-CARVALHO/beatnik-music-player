@@ -1,4 +1,3 @@
-# beatnik-music-player![Screenshot 2024-11-29 160145](https://github.com/user-attachments/assets/aae01160-08b8-4f06-8e2f-4197c57b90cf)
 BeatNik Application
 Overview
 BeatNik is a web-based music library application designed to provide users with a seamless experience for managing and enjoying their favorite songs. The application features user authentication, audio playback, and a dynamic interface that displays available tracks. Users can easily navigate through their music collection, play songs, and manage their playlists.
@@ -160,6 +159,9 @@ Special thanks to the contributors and the open-source community for their suppo
 
 
 
+
+# beatnik-music-player
+![Screenshot 2024-11-29 160145](https://github.com/user-attachments/assets/aae01160-08b8-4f06-8e2f-4197c57b90cf)
 ![Screenshot 2024-11-29 161642](https://github.com/user-attachments/assets/4b3c588e-a431-464f-b4c1-67b3fa3d3ef4)
 ![Screenshot 2024-11-29 161656](https://github.com/user-attachments/assets/2dc579ff-439a-49e7-b023-4998ae58a764)
 ![Screenshot 2024-11-29 161707](https://github.com/user-attachments/assets/edf69154-86a5-4cb3-a8e0-fdc50aa3938f)
